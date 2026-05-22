@@ -1,0 +1,3 @@
+Quem pode usar o Licita?
+
+Existem três tipos de utilizadores. As entidades adjudicantes são as instituições públicas que lançam os concursos — ministérios, câmaras municipais, hospitais públicos, entre outros. Os concorrentes são as empresas privadas que submetem propostas. O júri é o grupo responsável pela avaliação das propostas dentro de cada concurso. Existe ainda o perfil de auditor, que tem acesso de leitura a todo o histórico mas não pode alterar nada.

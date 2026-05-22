@@ -1,0 +1,3 @@
+Como funciona a submissão de propostas?
+
+A empresa entra na plataforma, encontra o concurso relevante e submete os documentos exigidos dentro do prazo definido. No momento da submissão, o sistema verifica automaticamente se todos os documentos obrigatórios estão presentes. Se faltar algum, a empresa é notificada imediatamente para corrigir antes do prazo fechar.
