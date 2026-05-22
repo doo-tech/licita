@@ -1,0 +1,3 @@
+Para que serve?
+
+Serve para substituir o processo actual de concursos públicos, que depende de papel, email, entregas físicas e verificação manual. Com o Licita, todo o ciclo — desde o anúncio do concurso até à notificação do vencedor — acontece dentro de um único sistema, de forma automática e auditável.
