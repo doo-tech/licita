@@ -1,0 +1,3 @@
+Como é garantida a transparência do processo?
+
+Cada acção dentro do processo fica registada com hora, data e identificação de quem a realizou. Este histórico é imutável — ninguém consegue apagar ou alterar o que já foi registado. O auditor tem acesso a este registo completo em qualquer momento.

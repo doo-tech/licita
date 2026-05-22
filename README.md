@@ -95,14 +95,8 @@ O núcleo do sistema é um motor de processos BPMN (Camunda 8) que garante que c
 
 ## Equipa
 
-Desenvolvido por **Doo** — Luanda, Angola.
-
----
+Desenvolvido por **Abner Lourenço** — Luanda, Angola.
 
 ## Contacto
 
-📧 `dootech.lda@gmail.com`  
-
----
-
-*Licita — menos papel. menos espera. menos corrupção por omissão.*
+📧 `louren.abner@gmail.com`  

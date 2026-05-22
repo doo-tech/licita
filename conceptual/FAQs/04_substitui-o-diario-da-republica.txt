@@ -1,0 +1,3 @@
+O Licita substitui o Diário da República?
+
+Não. O Diário da República continua a ser o canal oficial exigido por lei para que um concurso tenha validade jurídica. O que o Licita faz é gerar automaticamente o documento no formato oficial no momento em que a instituição publica o concurso na plataforma. O responsável faz a submissão ao Diário como passo obrigatório, e o processo dentro do Licita só avança para a fase de propostas depois de essa publicação ser confirmada. O Diário permanece como arquivo legal; o Licita é onde o processo realmente acontece.
