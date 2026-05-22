@@ -102,7 +102,3 @@ Desenvolvido por **Doo** — Luanda, Angola.
 ## Contacto
 
 📧 `dootech.lda@gmail.com`  
-
----
-
-*Licita — menos papel. menos espera. menos corrupção por omissão.*
